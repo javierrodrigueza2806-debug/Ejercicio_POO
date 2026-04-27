@@ -1,0 +1,15 @@
+# Maven
+/target/
+
+# Compilados
+*.class
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+
+# Otros
+*.log
