@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "actividadd_4/src",
+        "actividadd_4_2/src"
+    ],
+    "java.project.outputPath": "bin"
+}
